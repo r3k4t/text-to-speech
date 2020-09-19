@@ -17,11 +17,17 @@ Convert Your Text to robot voice.You can convert text to robot voice in your and
 <li><a href="https://www.python.org">Python</li>
 </ul>
 
+### Setup ###
+
+<ul>
+<li>pip install -r requirements.txt</li>
+</ul>
+
 ### Speak.txt ###
 
 <ul>
 <li>nano speak.txt</li>
-</ulK>
+</ul>
 
 ![Screenshot_2020-09-19-11-27-40-558_com termux](https://user-images.githubusercontent.com/69615463/93661113-0b8c0780-fa77-11ea-9d3b-84e54dfc89a8.jpg)
 
@@ -33,14 +39,8 @@ Convert Your Text to robot voice.You can convert text to robot voice in your and
 <li>audio.mp3</li>
 </ul>
 
-![PicsArt_09-19-01 01 14](https://user-images.githubusercontent.com/69615463/93661270-4e021400-fa78-11ea-8a3a-2568289a6504.jpg)![PicsArt_09-19-01 01 14](https://user-images.githubusercontent.com/69615463/93661270-4e021400-fa78-11ea-8a3a-2568289a6504.jpg)
+![PicsArt_09-19-01 01 14](https://user-images.githubusercontent.com/69615463/93661270-4e021400-fa78-11ea-8a3a-2568289a6504.jpg)
 
-
-### Setup###
-
-<ul>
-<li>pip install -r requirements.txt</li>
-</ul>
 
 ### Android Terminal Command ###
 
