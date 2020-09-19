@@ -47,7 +47,6 @@ Convert Your Text to robot voice.You can convert text to robot voice in your and
 <ul>
 <li>git clone https://github.com/r3k4t/text-to-speech.git</li>
 <li>cd text-to-speech</li>
-<li></li>
 <li>python text-to-speech</li>
 </ul>
 
