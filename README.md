@@ -8,7 +8,7 @@
 ![PicsArt_09-19-10 00 16](https://user-images.githubusercontent.com/69615463/93660843-e0081d80-fa74-11ea-9bd6-e80fb6d2b825.jpg)
 
 
-Convert your text to robot voice.It is a sagacity system.This system is a artificial intelligence concept.You can convert text to robot voice in your android.Need no root permission.Only install python and termux app in your android.
+Convert your text to robot voice.It is a sagacity system.This system is a artificial intelligence concept.A real speak engine.You can convert text to robot voice in your android.Need no root permission.Only install python and termux app in your android.
 
 ### Installation ###
 
