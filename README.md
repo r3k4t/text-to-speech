@@ -17,7 +17,7 @@ Convert Your Text to robot voice.You can convert text to robot voice in your and
 <li><a href="https://www.python.org">Python</li>
 </ul>
 
-### Setup###
+### Setup ###
 
 <ul>
 <li>pip install -r requirements.txt</li>
@@ -28,8 +28,7 @@ Convert Your Text to robot voice.You can convert text to robot voice in your and
 <ul>
 <li>git clone https://github.com/r3k4t/text-to-speech.git</li>
 <li>cd text-to-speech</li>
-<li></li>
-<li>python text-to-speech</li>
+<li>python text-to-speech.py</li>
 </ul>
 
 ![PicsArt_09-19-10 15 39](https://user-images.githubusercontent.com/69615463/93660899-5efd5600-fa75-11ea-92eb-8542d8f4320f.jpg)
