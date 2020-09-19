@@ -13,7 +13,7 @@ Convert Your Text to robot voice.You can convert text to robot voice in your and
 ### Installation ###
 
 <ul>
-<li><a href="https://www.termux.com">Termux</li>
+<li><a href="www.termux.com">Termux</li>
 <li><a href="https://www.python.org">Python</li>
 </ul>
 
