@@ -54,7 +54,7 @@ Convert your text to robot voice.It is a sagacity system.This system is a artifi
 <ul>
 <li>git clone https://github.com/r3k4t/text-to-speech.git</li>
 <li>cd text-to-speech</li>
-<li>python text-to-speech</li>
+<li>python text-to-speech.py</li>
 </ul>
 
 ![PicsArt_09-19-10 15 39](https://user-images.githubusercontent.com/69615463/93660899-5efd5600-fa75-11ea-92eb-8542d8f4320f.jpg)
