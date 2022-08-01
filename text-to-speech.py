@@ -1,13 +1,34 @@
-from gtts  import gTTS
-import os
-import sys
-fh=open("speak.txt","r")
-rktText = fh.read().replace("\n","")
-language='en'
-audio=gTTS(text=rktText,lang=language,slow=False)
-audio.save("audio.mp3")
-os.system("mv audio.mp3 /sdcard/")
-fh.close()
 
 
 
+
+#import suprocess to open mp3 audio
+
+import subprocess 
+
+#import gtts convert text to audio file
+import gtts
+
+
+print("welcome to chatbot")
+
+
+
+def repeat():
+    a=input("ENTER A CHAT:")
+#convert to audio file
+    t1 = gtts.gTTS(a)  
+#save mp3 file
+    t1.save("hi.mp3")
+#open audio file
+    subprocess.call("mpv hi.mp3",shell=True)
+ 
+    if a!="exit":
+        repeat()
+        
+    else:
+        print("else")
+        
+
+repeat()
+    
